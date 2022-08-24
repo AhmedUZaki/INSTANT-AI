@@ -161,7 +161,7 @@
 
 ### Tasks:
 
-1. Why and how to use protected visibility in python. 
+1. Why and how to use Access Modifiers **[protected]** in python. 
 2. How do you access a private member from a super-class in a sub class?
 
 ### Solution:
