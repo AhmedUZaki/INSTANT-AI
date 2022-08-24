@@ -13,7 +13,7 @@
 
 ### Tasks:
 
-- [10 Python Problems](https://github.com/engzakii/INSTANT-AI/blob/main/Session%2004/Session%204%20Tasks.pdf)
+- [10 Python Problems](https://github.com/AhmedUZaki/INSTANT-AI/blob/main/Track%201_%20Python%20for%20Data%20science/Session%2004/Session%204%20Tasks.pdf)
 
 ### Solution:
-- [Notebook](https://github.com/engzakii/INSTANT-AI/blob/main/Session%2004/Session%204%20Tasks.ipynb)
+- [Notebook](https://github.com/AhmedUZaki/INSTANT-AI/blob/main/Track%201_%20Python%20for%20Data%20science/Session%2004/Session%204%20Tasks.pdf)
