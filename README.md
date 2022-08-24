@@ -1,0 +1,38 @@
+# INSTANT AI
+This repository is intended to provide my **Artificial intelligence** journey with INSTANT Software solution.
+
+<p align="center">
+<img src="https://i.ibb.co/5YLhYZL/1.png" alt="" style="width:350px;"/>
+
+- #### Contact info
+
+  - [Official Website](https://www.instant-ss.com/)
+  - [LinkedIn](https://www.linkedin.com/company/instantsoftwaresolution/)
+
+- #### Syllabus
+
+  [Artificial Intelligence Diploma (5 Months)](https://drive.google.com/file/d/1wTd9mdGzxWzFVL13FYEI51YvWg9Bv1v5/view)
+
+## Diploma content
+
+### Track 1: Python for Data science
+
+
+<div align="center">
+
+|                           Session                            |                  Topic                  |     Date      |
+| :----------------------------------------------------------: | :-------------------------------------: | :-----------: |
+| [Session 01](https://github.com/AhmedUZaki/INSTANT-AI/tree/main/Track%201:%20Python%20for%20Data%20science/Session%2001) |              Introduction               | Jul 24, 2022  |
+| [Session 02](https://github.com/AhmedUZaki/INSTANT-AI/tree/main/Track%201:%20Python%20for%20Data%20science/Session%2002) |               Git/GitHub                | Jul 27, 2022  |
+| [Session 03](https://github.com/AhmedUZaki/INSTANT-AI/tree/main/Track%201:%20Python%20for%20Data%20science/Session%2003) |            Python Basics (1)            | Jul 31, 2022  |
+| [Session 04](https://github.com/AhmedUZaki/INSTANT-AI/tree/main/Track%201:%20Python%20for%20Data%20science/Session%2004) |            Python Basics (2)            | Aug 3 , 2022  |
+| [Session 05](https://github.com/AhmedUZaki/INSTANT-AI/tree/main/Track%201:%20Python%20for%20Data%20science/Session%2005) | Python Basics (3) &  Data structure (1) | Aug 7 , 2022  |
+| [Session 06](https://github.com/AhmedUZaki/INSTANT-AI/tree/main/Track%201:%20Python%20for%20Data%20science/Session%2006) |           Data structures (2)           | Aug 10 , 2022 |
+| [Session 07](https://github.com/AhmedUZaki/INSTANT-AI/tree/main/Track%201:%20Python%20for%20Data%20science/Session%2007) |     Object-oriented programming (1)     | Aug 14 , 2022 |
+| [Session 08](https://github.com/AhmedUZaki/INSTANT-AI/tree/main/Track%201:%20Python%20for%20Data%20science/Session%2008) |     Object-oriented programming (2)     | Aug 17 , 2022 |
+| [Session 09](https://github.com/AhmedUZaki/INSTANT-AI/tree/main/Track%201:%20Python%20for%20Data%20science/Session%2009) |              Revision (1)               | Aug 21 , 2022 |
+
+</div>
+
+
+### Track 2: Mathematics for Data science
