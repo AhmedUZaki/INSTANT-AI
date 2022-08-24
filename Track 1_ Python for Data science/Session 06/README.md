@@ -99,4 +99,4 @@
 
 
 ### Solution:
-- [Notebook](https://github.com/engzakii/INSTANT-AI/blob/main/Session%2006/Session%206%20Tasks.ipynb)
+- [Notebook](https://github.com/AhmedUZaki/INSTANT-AI/blob/main/Track%201_%20Python%20for%20Data%20science/Session%2006/Session%206%20Tasks.ipynb)
