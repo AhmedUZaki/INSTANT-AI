@@ -16,4 +16,4 @@
 - [10 Python Problems](https://github.com/AhmedUZaki/INSTANT-AI/blob/main/Track%201_%20Python%20for%20Data%20science/Session%2004/Session%204%20Tasks.pdf)
 
 ### Solution:
-- [Notebook](https://github.com/AhmedUZaki/INSTANT-AI/blob/main/Track%201_%20Python%20for%20Data%20science/Session%2004/Session%204%20Tasks.pdf)
+- [Notebook](https://github.com/AhmedUZaki/INSTANT-AI/blob/main/Track%201_%20Python%20for%20Data%20science/Session%2004/Session%204%20Tasks.ipynb)
