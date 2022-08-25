@@ -23,9 +23,8 @@
 1. What is ternary search?
 2. Crash courses about **UML diagrams**
 3. Learn clean code:
-   -  [Clean Code - Uncle Bob](https://www.youtube.com/watch?v=7EmboKQH8lM&list=PLmmYSbUCWJ4x1GO839azG_BBw8rkh-zOj) 
-   - Turn Spaghetti code into Clean code.
-
+    -  Turn Spaghetti code into Clean code.
+    -  [Clean Code - Uncle Bob](https://www.youtube.com/watch?v=7EmboKQH8lM&list=PLmmYSbUCWJ4x1GO839azG_BBw8rkh-zOj).
 4. What is the most common design patterns?
 5. Agile vs DevOps.
 6. What are used tools in DevOps?
