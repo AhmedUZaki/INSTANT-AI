@@ -69,7 +69,7 @@
     - Refers to the process of visiting (checking and/or updating) each node in a tree data structure, **exactly once**.
     
       <p align="center"><img src="https://i.ibb.co/bBzgLdB/Screenshot-12.jpg" alt="Screenshot_12" style="width:300px;"/>
-    
+      
       
       
     
@@ -99,4 +99,4 @@
 
 
 ### Solution:
-- [Notebook](https://github.com/AhmedUZaki/INSTANT-AI/blob/main/Track%201_%20Python%20for%20Data%20science/Session%2006/Session%206%20Tasks.ipynb)
+- [Notebook](https://github.com/AhmedUZaki/INSTANT-AI/blob/main/Track%201_%20Python%20for%20Data%20science/Session%2006/Session%206%20Tasks%20solution.ipynb)

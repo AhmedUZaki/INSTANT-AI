@@ -1,5 +1,5 @@
 `Subject:` Software Engineering
-`Date:` 24 Aug 22 `No.` 09
+`Date:` 24 Aug 22 `No.` 10
 
 ### Session content:
 
@@ -18,10 +18,6 @@
   - MVC
   - MVVC
 
-
-
-#### 
-
 ### Tasks:
 
 1. What is ternary search?
@@ -36,7 +32,7 @@
 
 ### Solution:
 
-- [Notebook](https://github.com/AhmedUZaki/INSTANT-AI/blob/main/Track%201_%20Python%20for%20Data%20science/Session%2008/Session%208%20Tasks.ipynb)
+- [Notebook](https://github.com/AhmedUZaki/INSTANT-AI/blob/main/Track%201_%20Python%20for%20Data%20science/Session%2010/Session%2010%20Tasks%20Solution.ipynb)
 
 
 
