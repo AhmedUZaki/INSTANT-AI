@@ -11,9 +11,7 @@
 
 ### Solution:
 
-- [Notebook]()
-
-
+- [Notebook](https://github.com/AhmedUZaki/INSTANT-AI/blob/main/Track%201_%20Python%20for%20Data%20science/Session%2009/Mini%20Project%201_%20Online%20Library%20Management%20System.ipynb)
 
 
 
