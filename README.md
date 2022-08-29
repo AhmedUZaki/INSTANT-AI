@@ -36,5 +36,11 @@ This repository is intended to provide my **Artificial intelligence** journey wi
 
 </div>
 
-
 ### Track 2: Mathematics for Data science
+
+
+
+### Projects:
+
+1. [Mini Project 1: [“Online Library Management System”]](https://github.com/AhmedUZaki/INSTANT-AI/blob/main/Track%201_%20Python%20for%20Data%20science/Session%2009/Mini%20Project%201_%20Online%20Library%20Management%20System.ipynb) 
+
