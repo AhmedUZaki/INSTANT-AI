@@ -1,0 +1,17 @@
+listofbooks = ["Head First Statistics: A Brain-Friendly Guide",
+"Practical Statistics for Data Scientists",
+"Introduction to Probability",
+"Introduction to Machine Learning with Python",
+"Python Machine Learning By Example",
+"Big Data – A revolution",
+"Practical data science with R",
+"The data science handbook"]
+
+
+"Pattern recognition and machine learning"
+"Python for data analysis"
+"Naked statistics"
+"Data Science and big data analytics"
+"R for data science"
+"Inflection point"
+"Storytelling with Data"
