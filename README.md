@@ -4,11 +4,12 @@ This repository is intended to provide my **Artificial intelligence** journey wi
 <p align="center">
 <img src="https://i.ibb.co/5YLhYZL/1.png" alt="" style="width:350px;"/>
 
-- #### Contact info
+​    Contact info
 
-  - [Official Website](https://www.instant-ss.com/)
+
+- - [Official Website](https://www.instant-ss.com/)
   - [LinkedIn](https://www.linkedin.com/company/instantsoftwaresolution/)
-
+  
 - #### Syllabus
 
   [Artificial Intelligence Diploma (5 Months)](https://drive.google.com/file/d/1wTd9mdGzxWzFVL13FYEI51YvWg9Bv1v5/view)
