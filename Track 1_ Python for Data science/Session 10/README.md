@@ -58,49 +58,6 @@
   - MVVC 
   </td> </tr></table>
 
-<table>
-<tr>
-<th align="left">
-<img width="444" height="0.5">
-<p> 
-<h3>
-UML diagrams
-</h3>
-</p>
-</th>
-<th align="left">
-<img width="400" height="0.5">
-<p> 
-<h3>
-Architecture patterns
-</h3>
-</p>
-</th>
-</tr>
-<tr>
-<td>
-<!-- REMOVE THE BACKSLASHES -->
-- Entity relationship diagram </br>
-  - Use case diagram </br>
-  - Sequence diagram </br>
-  - Activity diagram </br>
-  - class diagram </br>
-  - Data flow diagram</td>
-</td>
-<td>
-<!-- REMOVE THE BACKSLASHES -->
-- MVC </br>
-- MVVC 
-</td>
-</tr>
-<tr>
-</tr>
-</table>
-
-
-
-
-
 
 
 
