@@ -31,7 +31,8 @@
 - #### Software Engineering
 
 <p align="center">
-<img src="https://bigwater.consulting/wp-content/uploads/2019/04/SDLC_BWC.png" alt="Screenshot_1" style="width:250px;"/>
+<img src="https://bigwater.consulting/wp-content/uploads/2019/04/SDLC_BWC.png" alt="Screenshot_1" style="width:300px;"/>
+
 
   -  SDLC is a process followed for a software project, within a software organization. 
 
