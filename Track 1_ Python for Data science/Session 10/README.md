@@ -41,13 +41,14 @@
 
 
 - <table border="0">
+       
    <tr>
-      <td><b style="font-size:20px">UML diagrams</b> <img width="444" height="0.5"> </td>
-      <td><b style="font-size:20px">Architecture patterns</b> <img width="444" height="0.5"></td>
-      </tr>
+   <td><b style="font-size:20px">UML diagrams</b> <img width="400" height="0.5"> </td>
+   <td><b style="font-size:20px">Architecture patterns</b> <img width="400" height="0.5"></td>  
+       
       <tr>
-      <td>
-          - Entity relationship diagram </br>
+     <td>
+  - Entity relationship diagram </br>
   - Use case diagram </br>
   - Sequence diagram </br>
   - Activity diagram </br>
