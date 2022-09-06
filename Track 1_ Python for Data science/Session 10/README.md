@@ -61,7 +61,6 @@
 <table>
 <tr>
 <th align="left">
-<img width="441" height="0.5">
 <p> 
 <h3>
 UML diagrams
@@ -69,7 +68,6 @@ UML diagrams
 </p>
 </th>
 <th align="left">
-<img width="441" height="0.5">
 <p> 
 <h3>
 Architecture patterns
