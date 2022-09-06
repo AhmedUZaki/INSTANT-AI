@@ -26,7 +26,7 @@
     <td>
   - Linear Search. </br>
   - Binary Search.   </br>
-  - Ternary Search.
+  - Ternary Search.<img width="444"></br>
     </td> </tr></table>
 
 - #### Software Engineering
@@ -55,7 +55,7 @@
   </td>
   <td>
   - MVC </br>
-  - MVVC 
+  - MVVC  <img width="200">
   </td> </tr></table>
 
 
