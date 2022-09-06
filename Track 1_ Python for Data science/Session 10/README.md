@@ -42,8 +42,8 @@
 
 - <table border="0"> 
    <tr>
-   <td><b style="font-size:20px">UML diagrams</b> <img width="400" height="0.1"> </td>
-   <td><b style="font-size:20px">Architecture patterns</b> <img width="400" height="0.5"></td>  
+   <td><b style="font-size:20px">UML diagrams</b> <img width="400" > </td>
+   <td><b style="font-size:20px">Architecture patterns</b> <img width="400" ></td>  
    </tr>
       <tr>
       <td>
