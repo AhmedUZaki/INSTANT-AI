@@ -22,13 +22,13 @@
   - Bubble Sort. </br>
   - Selection Sort.</br>
   - Insertion Sort. </br>
-  - Quick Sort.</br>
+  - Quick Sort. 
+<img width="444"></br>
     <td>
   - Linear Search. </br>
   - Binary Search.   </br>
-  - Ternary Search.
+  - Ternary Search.<img width="444">
     </td> </tr></table>
-
 
 - #### Software Engineering
 
