@@ -41,8 +41,8 @@
 
 - <table border="0"> 
    <tr>
-   <td><b style="font-size:20px">UML diagrams</b>  </td>
-   <td><b style="font-size:20px">Architecture patterns</b></td>  
+   <td><b style="font-size:20px">UML diagrams: </b>  </td>
+   <td><b style="font-size:20px">Architecture patterns: </b></td>  
    </tr>
       <tr>
       <td>
@@ -57,8 +57,6 @@
   - MVC </br>
   - MVVC  <img width="400">
   </td> </tr></table>
-
-
 
 
 - #### Programming Language vs. Framework :
