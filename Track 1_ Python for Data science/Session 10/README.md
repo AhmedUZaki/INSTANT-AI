@@ -60,20 +60,20 @@
 
 <table>
 <tr>
-<th align="center">
+<th align="left">
 <img width="441" height="0.5">
 <p> 
-<small>
+<h3>
 UML diagrams
-</small>
+</h3>
 </p>
 </th>
-<th align="center">
+<th align="left">
 <img width="441" height="0.5">
 <p> 
-<small>
+<h3>
 Architecture patterns
-</small>
+</h3>
 </p>
 </th>
 </tr>
