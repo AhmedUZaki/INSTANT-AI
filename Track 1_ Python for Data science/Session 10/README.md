@@ -51,7 +51,7 @@
   - Sequence diagram </br>
   - Activity diagram </br>
   - class diagram </br>
-  - Data flow diagram <img width="444">
+  - Data flow diagram <img width="200">
   </td>
   <td>
   - MVC </br>
