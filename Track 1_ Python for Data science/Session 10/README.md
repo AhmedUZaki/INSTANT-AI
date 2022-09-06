@@ -22,12 +22,11 @@
   - Bubble Sort. </br>
   - Selection Sort.</br>
   - Insertion Sort. </br>
-  - Quick Sort. 
-<img width="444"></br>
+  - Quick Sort. <img width="444"></br>
     <td>
   - Linear Search. </br>
   - Binary Search.   </br>
-  - Ternary Search.<img width="444">
+  - Ternary Search.
     </td> </tr></table>
 
 - #### Software Engineering
@@ -52,12 +51,11 @@
   - Sequence diagram </br>
   - Activity diagram </br>
   - class diagram </br>
-  - Data flow diagram
-  <img width="444"></td>
+  - Data flow diagram <img width="444">
+  </td>
   <td>
   - MVC </br>
   - MVVC 
-  <img width="444"> 
   </td> </tr></table>
 
 
