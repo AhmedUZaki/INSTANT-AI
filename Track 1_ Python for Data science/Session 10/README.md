@@ -52,10 +52,12 @@
   - Sequence diagram </br>
   - Activity diagram </br>
   - class diagram </br>
-  - Data flow diagram</td>
+  - Data flow diagram
+  <img width="444"></td>
   <td>
   - MVC </br>
   - MVVC 
+  <img width="444"> 
   </td> </tr></table>
 
 
