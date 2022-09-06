@@ -22,8 +22,7 @@
   - Bubble Sort. </br>
   - Selection Sort.</br>
   - Insertion Sort. </br>
-  - Quick Sort. <img width="444"></br>
-    <td>
+  - Quick Sort. <img width="444"></br>    <td>
   - Linear Search. </br>
   - Binary Search.   </br>
   - Ternary Search.<img width="444"></br>
@@ -51,11 +50,11 @@
   - Sequence diagram </br>
   - Activity diagram </br>
   - class diagram </br>
-  - Data flow diagram <img width="200">
+  - Data flow diagram <img width="400">
   </td>
   <td>
   - MVC </br>
-  - MVVC  <img width="200">
+  - MVVC  <img width="400">
   </td> </tr></table>
 
 
