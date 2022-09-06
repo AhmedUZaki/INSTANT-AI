@@ -11,9 +11,8 @@
 ### Notes:
 
 - #### Array
-  
 
- <table border="0">
+<table border="0">
    <tr>
       <td><b style="font-size:15px">Sorting:</b></td>
       <td><b style="font-size:15px">Search:</b></td>
@@ -65,7 +64,7 @@
 <img width="441" height="1">
 <p> 
 <small>
-EXAMPLE TEXT
+UML diagrams
 </small>
 </p>
 </th>
@@ -73,7 +72,7 @@ EXAMPLE TEXT
 <img width="441" height="1">
 <p> 
 <small>
-EXAMPLE TEXT
+Architecture patterns
 </small>
 </p>
 </th>
@@ -81,27 +80,17 @@ EXAMPLE TEXT
 <tr>
 <td>
 <!-- REMOVE THE BACKSLASHES -->
-\```jsonc
-{
-  "foo": [
-    {
-      "bar": "hello world"
-    }
-  ]
-}
-\```
+- Entity relationship diagram </br>
+  - Use case diagram </br>
+  - Sequence diagram </br>
+  - Activity diagram </br>
+  - class diagram </br>
+  - Data flow diagram</td>
 </td>
 <td>
 <!-- REMOVE THE BACKSLASHES -->
-\```jsonc
-{
-  "foo": [
-    {
-      "bar": "hello world"
-    }
-  ]
-}
-\```
+- MVC </br>
+- MVVC 
 </td>
 </tr>
 <tr>
@@ -113,6 +102,8 @@ Column 2
 </td>
 </tr>
 </table>
+
+
 
 
 
