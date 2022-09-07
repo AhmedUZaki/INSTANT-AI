@@ -64,13 +64,40 @@
 - #### Design patterns Vs. Architectural patterns:
   
   
-  - Programming languages are nothing more than a set of rules by which you make a computer do what you want.
+  - For a most simplistic view:
   
-  - Frameworks are tools that help to increase the efficiency of using a specific language, be it JavaScript, PHP, or Python. However, they help to achieve incredible results.
+    - **Programming paradigms** - specific to programming language
   
-  - Frameworks are based on one programming language but can contain more programming languages or tools for better performance.
+    - **Design patterns** - solves reoccurring problems in software construction
   
-  - Programming languages are more flexible than frameworks.
+    - **Architectural patterns** - fundamental structural organization for software systems
+  
+      <p align="center">
+      <img src='https://itabok.iasaglobal.org/wp-content/uploads/2015/07/patterns-hierarchy1.png' width="450"/>
+  
+  - **Design patterns**:
+  
+  
+    - Are usually associated with code level commonalities.
+    - Are concerned with how the components are built, It’s about a particular solution.
+  
+  - **Architectural patterns**: 
+  
+  
+    - Is a general, reusable solution to a commonly occurring problem in software architecture within a given context.
+  
+      <p align="center">
+      <img src='https://qph.cf2.quoracdn.net/main-qimg-c92042d34aa4f51f54f6c3df307d5283' width="300"/>
+  
+  - **Differences** :
+  
+    1. **Architecture comes in Designing phase** and **Design Patterns comes in Building phase.**
+  
+    2. Architectural pattern is like a **blue print** and design pattern is actual implementation.
+  
+    3. All **Architecture is design pattern** but all **design pattern can not be architecture.** 
+  
+       
   
 - #### Software Models:  
 
