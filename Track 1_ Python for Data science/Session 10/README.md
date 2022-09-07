@@ -69,8 +69,6 @@
     - 
       The Waterfall Model was the first Process Model to be introduced. It is also referred to as a **linear-sequential life cycle model**. In a waterfall model, each phase must be completed before the next phase can begin and there is no overlapping in the phases.
     
-    
-    
       - No working software is produced until late during the life cycle.
     
   
