@@ -8,6 +8,7 @@
 - UML diagrams 
 - Programming Language vs. Framework
 - Software Models
+- API
 
 ### Notes:
 
@@ -35,7 +36,8 @@
 <img src="https://bigwater.consulting/wp-content/uploads/2019/04/SDLC_BWC.png" alt="Screenshot_1" style="width:300px;"/>
 
   -  SDLC is a process followed for a software project, within a software organization. 
-  -  It consists of a detailed plan describing how to develop, maintain, replace and alter or enhance specific software. The life cycle defines a methodology for improving the quality of software and the overall development process.
+  -  It consists of a detailed plan describing how to develop, maintain, replace and alter or enhance specific software. 
+  -  The life cycle defines a methodology for improving the quality of software and the overall development process.
 
 
 - #### UML diagrams:
@@ -98,6 +100,11 @@
   - DataOps
   
   - MlOps
+  
+- ####  What is an API?
+
+  - An application programming interface (API) is a particular set of **rules ('code') and specifications that software programs can follow to communicate with each other**. 
+  - It serves as an interface between different software programs and facilitates their interaction, similar to the way the user interface facilitates interaction between humans and computers.
 
 
 ### Tasks:
