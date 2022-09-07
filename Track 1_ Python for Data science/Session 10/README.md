@@ -32,6 +32,7 @@
 
 <p align="center">
 <img src="https://bigwater.consulting/wp-content/uploads/2019/04/SDLC_BWC.png" alt="Screenshot_1" style="width:300px;"/>
+
   -  SDLC is a process followed for a software project, within a software organization. 
   -  It consists of a detailed plan describing how to develop, maintain, replace and alter or enhance specific software. The life cycle defines a methodology for improving the quality of software and the overall development process.
 
