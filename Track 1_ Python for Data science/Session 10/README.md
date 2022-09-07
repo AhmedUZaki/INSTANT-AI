@@ -7,6 +7,8 @@
 - Software Engineering
 - UML diagrams 
 - Programming Language vs. Framework
+- Software Models
+- 
 
 ### Notes:
 
@@ -28,7 +30,7 @@
   - Ternary Search.<img width="444"></br>
     </td> </tr></table>
 
-- #### Software Engineering
+- #### Software Engineering:
 
 <p align="center">
 <img src="https://bigwater.consulting/wp-content/uploads/2019/04/SDLC_BWC.png" alt="Screenshot_1" style="width:300px;"/>
@@ -56,7 +58,42 @@
   
   - Programming languages are more flexible than frameworks.
   
-    
+- #### Software Models:  
+
+  - **Waterfall Model** 
+  
+    <p align="center">
+    <img src="https://miro.medium.com/max/500/1*tGKCSfTfV8E8t4atqrLE4A.png" alt="Screenshot_1" style="width:300px;"/>
+  
+    -  The Waterfall Model was the first Process Model to be introduced. It is also referred to as a **linear-sequential life cycle model**. In a waterfall model, each phase must be completed before the next phase can begin and there is no overlapping in the phases.
+    - No working software is produced until late during the life cycle.
+  
+  - **Agile Model**
+  
+    <p align="center">
+    <img src="https://kimei.vn/blog_images/what-is-agile-what-is-scrum-1000x700.webp" alt="Screenshot_1" style="width:350px;"/>
+  
+    - They do this by breaking up the traditionally long delivery cycle (typical of the legacy “waterfall methods”) into shorter periods, called sprints or iterations.
+    -  The iteration provides the cadence for delivering a working product to the customer, getting feedback and making changes based on the feedback.
+  
+  - **DevOps Model**
+  
+    <p align="center">
+    <img src="https://www.hashroot.com/assets/img/services/devops/devops.png" alt="Screenshot_1" style="width:350px;"/>
+  
+    - DevOps is about removing the barriers between traditionally siloed teams, development and operations. 
+    - Under a DevOps model, development and operations teams work together across the entire software application life cycle, from development and test through deployment to operations.
+  
+  - DevSecOps Model
+  
+  - V-Model.
+  
+  - DataOps
+  
+  - MlOps
+  
+  - 
+  
   
 
 
