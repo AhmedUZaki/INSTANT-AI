@@ -7,6 +7,7 @@
 - Software Engineering
 - UML diagrams 
 - Programming Language vs. Framework
+- Design patterns Vs. Architectural patterns
 - Software Models
 - API
 
@@ -33,7 +34,8 @@
 - #### Software Engineering:
 
 <p align="center">
-<img src="https://bigwater.consulting/wp-content/uploads/2019/04/SDLC_BWC.png" alt="Screenshot_1" style="width:300px;"/>
+<img src="https://bigwater.consulting/wp-content/uploads/2019/04/SDLC_BWC.png" alt="Screenshot_1" style="width:250px;"/>
+
 
   -  SDLC is a process followed for a software project, within a software organization. 
   -  It consists of a detailed plan describing how to develop, maintain, replace and alter or enhance specific software. 
@@ -49,6 +51,17 @@
   -  Class diagram
 
 - #### Programming Language vs. Framework:
+  
+  
+  - Programming languages are nothing more than a set of rules by which you make a computer do what you want.
+  
+  - Frameworks are tools that help to increase the efficiency of using a specific language, be it JavaScript, PHP, or Python. However, they help to achieve incredible results.
+  
+  - Frameworks are based on one programming language but can contain more programming languages or tools for better performance.
+  
+  - Programming languages are more flexible than frameworks.
+  
+- #### Design patterns Vs. Architectural patterns:
   
   
   - Programming languages are nothing more than a set of rules by which you make a computer do what you want.
