@@ -8,7 +8,6 @@
 - UML diagrams 
 - Programming Language vs. Framework
 - Software Models
-- 
 
 ### Notes:
 
@@ -41,11 +40,11 @@
 
 - #### UML diagrams:
 
-  -  Entity relationship diagram 
-  -  Use case diagram 
-  -  Sequence diagram 
-  -  Activity diagram 
-  -  class diagram 
+  -  Entity relationship diagram
+  -  Use case diagram
+  -  Sequence diagram
+  -  Activity diagram
+  -  Class diagram
 
 - #### Programming Language vs. Framework:
   
@@ -84,17 +83,18 @@
     - DevOps is about removing the barriers between traditionally siloed teams, development and operations. 
     - Under a DevOps model, development and operations teams work together across the entire software application life cycle, from development and test through deployment to operations.
   
-  - DevSecOps Model
+  - **DevSecOps Model**
   
-  - V-Model.
+    <p align="center">
+    <img src="https://static.wixstatic.com/media/a093e4_35012272777e4fc8a79e4dce5e385120~mv2.png/v1/fill/w_600,h_359,al_c/a093e4_35012272777e4fc8a79e4dce5e385120~mv2.png" alt="Screenshot_1" style="width:350px;"/>
+  
+    - **DevSecOps** is the natural extension of DevOps and Agile cultures to incorporate Security as a main concern.
+  
+  - V-Model
   
   - DataOps
   
   - MlOps
-  
-  - 
-  
-  
 
 
 ### Tasks:
