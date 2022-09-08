@@ -31,6 +31,7 @@
 
 <p align="center">
     <img src='https://static.wixstatic.com/media/463754_737c30b70e384d6aa1a72a8c710cb410~mv2.png/v1/fill/w_630,h_191,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/463754_737c30b70e384d6aa1a72a8c710cb410~mv2.png' width="500"/> </p>
+
 - #### Microservices / Web Service:  
 
   - In order to **simplify the workflow with big applications**, we can split it into *smaller parts*. *Each part serves one particular purpose*. 
@@ -43,28 +44,27 @@
   
     - The word "micro" in "**microservices**" just confirms the idea *to make these web services as small as possible*. If you need a more complex service, it is usually better to create a new service that depends on one or more others.
   
-
 - #### AI Pipeline:
 
   - Verify (If we really needs AI)
   - Data Collection (Data Gathering, Data Acquiring)
   - Data Preprocessing
   - Feature Engineering
-  - Model Selection (Machine learning = Advanced statistics = Data modeling)
+  - Model Selection (Machine learning : Advanced statistics, Data modeling)
   - Fitting
   - Training
   - Testing
   - Save model
   - Documentation
-  - Integration
+  - Integration (Connecting the model to the system)
   - Monitoring
   - Maintenance
 
 - 
--
+
 ### Tasks:
 
-1. Read file and list each name, phone number and email separately in lists.
+- Read file and list each name, phone number and email separately in lists.
 
 ### Solution:
 
