@@ -60,7 +60,10 @@
   - Monitoring
   - Maintenance
 
-- 
+- **Regular expression (regex)**:
+
+
+  - Notebook
 
 ### Tasks:
 
