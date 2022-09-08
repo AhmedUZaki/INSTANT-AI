@@ -8,8 +8,8 @@
 - UML diagrams 
 - Programming Language vs. Framework
 - Design patterns Vs. Architectural patterns
-- Software Models
 - API
+- Software Models
 
 ### Notes:
 
@@ -54,11 +54,8 @@
   
   
   - Programming languages are nothing more than a set of rules by which you make a computer do what you want.
-  
   - Frameworks are tools that help to increase the efficiency of using a specific language, be it JavaScript, PHP, or Python. However, they help to achieve incredible results.
-  
   - Frameworks are based on one programming language but can contain more programming languages or tools for better performance.
-  
   - Programming languages are more flexible than frameworks.
   
 - #### Design patterns Vs. Architectural patterns:
@@ -92,12 +89,13 @@
   - **Differences** :
   
     1. **Architecture comes in Designing phase** and **Design Patterns comes in Building phase.**
-  
     2. Architectural pattern is like a **blue print** and design pattern is actual implementation.
-  
     3. All **Architecture is design pattern** but all **design pattern can not be architecture.** 
   
-       
+- ####  What is an API?
+
+  - An application programming interface (API) is a particular set of **rules ('code') and specifications that software programs can follow to communicate with each other**. 
+  - It serves as an interface between different software programs and facilitates their interaction, similar to the way the user interface facilitates interaction between humans and computers.       
   
 - #### Software Models:  
 
@@ -135,16 +133,10 @@
   
     - **DevSecOps** is the natural extension of DevOps and Agile cultures to incorporate Security as a main concern.
   
-  - V-Model
-  
   - DataOps
   
   - MlOps
   
-- ####  What is an API?
-
-  - An application programming interface (API) is a particular set of **rules ('code') and specifications that software programs can follow to communicate with each other**. 
-  - It serves as an interface between different software programs and facilitates their interaction, similar to the way the user interface facilitates interaction between humans and computers.
 
 
 ### Tasks:

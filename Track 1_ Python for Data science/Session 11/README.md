@@ -1,12 +1,24 @@
-`Subject:`  AI Pipeline
+`Subject:`  AI Pipeline, Regular expression
 `Date:` 28 Aug 22 `No.` 11
 
 ### Session content:
 
-- AI Pipeline
-- Regular expression (regex)
+- Continue **Software Models**
+- **AI Pipeline**
+- **Regular expression (regex)**
 
 ### Notes:
+
+- #### Software Models:  
+
+  - **Waterfall Model** 
+
+    <p align="center">
+    <img src='https://miro.medium.com/max/500/1*tGKCSfTfV8E8t4atqrLE4A.png' width="300"/>
+    
+    -  The Waterfall Model was the first Process Model to be introduced. It is also referred to as a **linear-sequential life cycle model**. In a waterfall model, each phase must be completed before the next phase can begin and there is no overlapping in the phases.
+    
+    
 
 - Machine learning = Advanced statistics = Data modeling
 
