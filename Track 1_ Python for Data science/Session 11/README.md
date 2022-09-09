@@ -63,7 +63,14 @@
 - **Regular expression (regex)**:
 
 
-  - [Notebook](https://github.com/AhmedUZaki/INSTANT-AI/blob/main/Track%201_%20Python%20for%20Data%20science/Session%2011/Session%2011%20Notebook.ipynb)
+    - [Notebook](https://github.com/AhmedUZaki/INSTANT-AI/blob/main/Track%201_%20Python%20for%20Data%20science/Session%2011/Session%2011%20Notebook.ipynb)
+
+
+    - Cheatsheets:
+
+      - [Pythex](https://pythex.org)
+      - [Debuggex](https://www.debuggex.com/cheatsheet/regex/python)
+
 
 ### Tasks:
 

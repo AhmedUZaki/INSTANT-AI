@@ -1,51 +1,19 @@
-Name,Email,Phone
 Ahmed Mohamed Zaki,AhmedUZaki@gmail.com,+20 (10) 69476758
-Abigail,chanel.upton@orn.net,+20 (10) 15941754
+Abigail,chanel.upton@orn.net,+20 (12) 15941754
 Alexandra,gkerluke@mann.com,+20 (10) 82753795
-Alison,mweimann@gaylord.org,+20 (10) 49603436
+Alison,mweimann@gaylord.org,+20 (11) 49603436
 Amanda,hulda.wiegand@walsh.com,+20 (10) 33408051
 Amelia,jonatan.schiller@gmail.com,+20 (10) 94407621
-Amy,nelle.damore@kassulke.com,+20 (10) 59391713
-Andrea,aidan37@hotmail.com,+20 (10) 94646484
-Angela,sidney.wiza@hill.com,+20 (10) 07239918
-Anna,laisha.miller@frami.com,+20 (10) 07002530
-Anne,vstracke@gmail.com,+20 (10) 27615463
-Audrey,kuvalis.else@cronin.com,+20 (10) 97776502
+Anne,vstracke@gmail.com,+20 (12) 27615463
+Audrey,kuvalis.else@cronin.com,+20 (12) 97776502
 Ava,marge.daugherty@hotmail.com,+20 (10) 01625052
-Bella,letha39@hotmail.com,+20 (10) 24397549
-Bernadette,presley.larson@denesik.com,+20 (10) 10776719
-Carol,eduardo30@gmail.com,+20 (10) 94731090
-Caroline,gaylord.isadore@yahoo.com,+20 (10) 32545187
-Carolyn,julie92@block.biz,+20 (10) 40519564
-Chloe,torphy.libby@hyatt.net,+20 (10) 71627464
-Colin James,natalie.buckridge@dietrich.com,+20 (10) 30460217
-Charles Lyman,abel81@hermann.com,+20 (10) 38141472
-Alison Clark,murray.moshe@gmail.com,+20 (10) 20450341
-Leah Manning,bettie16@yahoo.com,+20 (10) 42526743
-Natalie Davies,devan.beatty@gmail.com,+20 (10) 65448674
-Richard Peake,silas15@heidenreich.com,+20 (10) 47558800
-Evan Hamilton,althea28@shields.com,+20 (10) 98613953
-Jason Hughes,maurine.cole@yahoo.com,+20 (10) 15650536
-Joe Morrison,nia99@gmail.com,+20 (10) 56471874
-Molly Glover,kautzer.noe@hotmail.com,+20 (10) 38828357
-Connor Fisher,darby54@kovacek.com,+20 (10) 39280222
-Cameron Grant,cade.swift@gmail.com,+20 (10) 72028604
-Alexandra Jackson,anastasia41@moore.com,+20 (10) 79868897
-Christopher Walsh,littel.gaetano@hotmail.com,+20 (10) 24982873
-Gabrielle Carr,lbuckridge@gmail.com,+20 (10) 19025127
-Jason Harris,pearlie.hilpert@schultz.com,+20 (10) 43792989
-Victor Miller,fausto67@hotmail.com,+20 (10) 78775902
-Steven Nolan,dtremblay@wintheiser.com,+20 (10) 01684145
-Leonard Reid,maryjane54@yahoo.com,+20 (10) 52903936
-Alysha Bednar Abigail,nettie.kub@hotmail.com,+20 (10) 66458558
-Kadin Jones DVM Alexandra,brianne36@pacocha.biz,+20 (10) 25347069
-Pierce Walter Alison,schimmel.celestino@hotmail.com,+20 (10) 60531552
-Kole Rosenbaum Amanda,wehner.randy@beahan.net,+20 (10) 26791409
-Mr. Alphonso Ebert Amelia,lubowitz.marisol@gmail.com,+20 (10) 07204607
-Lauryn Frami Amy,ndonnelly@gmail.com,+20 (10) 62739836
-Luz Price Andrea,schimmel.name@hotmail.com,+20 (10) 09721156
-Enrico Lueilwitz Angela,oma.kuhlman@hotmail.com,+20 (10) 31426683
-Mrs. Toni Feest Anna,marley.murazik@bins.com,+20 (10) 66768146
-Joseph Keeling Anne,kattie.weimann@yahoo.com,+20 (10) 40777958
-Darren Bailey I Audrey,aletha15@schneider.com,+20 (10) 53875055
-Caterina DuBuque Ava,torrance22@franecki.com,+20 (10) 94430622
+Carol$eduardo30@gmail.com$+20 (10) 94731090
+Caroline$gaylord.isadore@yahoo.com$+20 (10) 32545187
+Cameron Grant=cade.swift@gmail.com=+20 (10) 72028604
+Joseph Keeling Anne=kattie.weimann@yahoo.com=01040777958
+Darren Bailey I Audrey=aletha15@schneider.com[]%+201053875055
+Colin James[]%natalie.buckridge@dietrich.com[]%+201130460217
+Charles Lyman[]%abel81@hermann.com[]$+201013814147
+Alison Clark[]$murray.moshe@gmail.com[]$+201120450341
+Leah Manning[]bettie16@yahoo.com[]+201242526743
+Natalie Davies,devan.beatty@gmail.com,+201165448674
