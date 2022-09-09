@@ -67,7 +67,7 @@
 
 ### Tasks:
 
-- Read file and list each name, phone number and email separately in lists.
+- Read txt file and list each name, phone number and email separately in lists.
 
 ### Solution:
 
