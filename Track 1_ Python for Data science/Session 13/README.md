@@ -4,7 +4,6 @@
 ### Session content:
 
 - OOP
-- 
 
 ### Notes:
 
