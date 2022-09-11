@@ -38,13 +38,34 @@ This repository is intended to provide my **Artificial intelligence** journey wi
 | [Session 12](https://github.com/AhmedUZaki/INSTANT-AI/tree/main/Track%201_%20Python%20for%20Data%20science/Session%2012) |            Web scraping (1)             | Aug 31 , 2022 |
 | [Session 13](https://github.com/AhmedUZaki/INSTANT-AI/tree/main/Track%201_%20Python%20for%20Data%20science/Session%2013) |              Revision (2)               | Sep 3 , 2022  |
 | [Session 14](https://github.com/AhmedUZaki/INSTANT-AI/tree/main/Track%201_%20Python%20for%20Data%20science/Session%2014) |            Web scraping (2)             | Sep 4 , 2022  |
-|                                                              |                                         |               |
+| [Session 14](https://github.com/AhmedUZaki/INSTANT-AI/tree/main/Track%201_%20Python%20for%20Data%20science/Session%2015) |       Revision (3) \| Project (2)       | Sep 7 , 2022  |
 
 </div>
 
 ### Track 2: Mathematics for Data science
 
 
+<div align="center">
+
+
+|                           Session                            |    Topic     |     Date     |
+| :----------------------------------------------------------: | :----------: | :----------: |
+| [Session 01](https://github.com/AhmedUZaki/INSTANT-AI/tree/main/Track%201_%20Python%20for%20Data%20science/Session%2001) | Introduction | Jul 24, 2022 |
+| [Session 02](https://github.com/AhmedUZaki/INSTANT-AI/tree/main/Track%201_%20Python%20for%20Data%20science/Session%2002) |              |              |
+| [Session 03](https://github.com/AhmedUZaki/INSTANT-AI/tree/main/Track%201_%20Python%20for%20Data%20science/Session%2003) |              |              |
+| [Session 04](https://github.com/AhmedUZaki/INSTANT-AI/tree/main/Track%201_%20Python%20for%20Data%20science/Session%2004) |              |              |
+| [Session 05](https://github.com/AhmedUZaki/INSTANT-AI/tree/main/Track%201_%20Python%20for%20Data%20science/Session%2005) |              |              |
+| [Session 06](https://github.com/AhmedUZaki/INSTANT-AI/tree/main/Track%201_%20Python%20for%20Data%20science/Session%2006) |              |              |
+| [Session 07](https://github.com/AhmedUZaki/INSTANT-AI/tree/main/Track%201_%20Python%20for%20Data%20science/Session%2007) |              |              |
+| [Session 08](https://github.com/AhmedUZaki/INSTANT-AI/tree/main/Track%201_%20Python%20for%20Data%20science/Session%2008) |              |              |
+| [Session 09](https://github.com/AhmedUZaki/INSTANT-AI/tree/main/Track%201_%20Python%20for%20Data%20science/Session%2009) |              |              |
+| [Session 10](https://github.com/AhmedUZaki/INSTANT-AI/tree/main/Track%201_%20Python%20for%20Data%20science/Session%2010) |              |              |
+| [Session 11](https://github.com/AhmedUZaki/INSTANT-AI/tree/main/Track%201_%20Python%20for%20Data%20science/Session%2011) |              |              |
+| [Session 12](https://github.com/AhmedUZaki/INSTANT-AI/tree/main/Track%201_%20Python%20for%20Data%20science/Session%2012) |              |              |
+| [Session 13](https://github.com/AhmedUZaki/INSTANT-AI/tree/main/Track%201_%20Python%20for%20Data%20science/Session%2013) |              |              |
+| [Session 14](https://github.com/AhmedUZaki/INSTANT-AI/tree/main/Track%201_%20Python%20for%20Data%20science/Session%2014) |              |              |
+
+</div>
 
 ### Projects:
 
