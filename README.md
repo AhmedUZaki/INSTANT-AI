@@ -20,7 +20,7 @@ This repository is intended to provide my **Artificial intelligence** journey wi
 ### Track 1: Python for Data science
 
 
-<div align="center">
+<HTML><div align="center">
 
 |                           Session                            |                  Topic                  |     Date      |
 | :----------------------------------------------------------: | :-------------------------------------: | :-----------: |
@@ -40,12 +40,12 @@ This repository is intended to provide my **Artificial intelligence** journey wi
 | [Session 14](https://github.com/AhmedUZaki/INSTANT-AI/tree/main/Track%201_%20Python%20for%20Data%20science/Session%2014) |            Web scraping (2)             | Sep 4 , 2022  |
 | [Session 15](https://github.com/AhmedUZaki/INSTANT-AI/tree/main/Track%201_%20Python%20for%20Data%20science/Session%2015) |       Revision (3) \| Project (2)       | Sep 7 , 2022  |
 
-</div>
+</div> </HTML>
 
 ### Track 2: Mathematics for Data science
 
 
-<div align="center">
+<HTML> <div align="center">
 
 |                           Session                            |    Topic     |     Date     |
 | :----------------------------------------------------------: | :----------: | :----------: |
@@ -64,7 +64,7 @@ This repository is intended to provide my **Artificial intelligence** journey wi
 | [Session 13](https://github.com/AhmedUZaki/INSTANT-AI/tree/main/Track%201_%20Python%20for%20Data%20science/Session%2013) |              |              |
 | [Session 14](https://github.com/AhmedUZaki/INSTANT-AI/tree/main/Track%201_%20Python%20for%20Data%20science/Session%2014) |              |              |
 
-</div>
+</div> </HTML>
 
 ### Projects:
 
