@@ -38,7 +38,7 @@ This repository is intended to provide my **Artificial intelligence** journey wi
 | [Session 12](https://github.com/AhmedUZaki/INSTANT-AI/tree/main/Track%201_%20Python%20for%20Data%20science/Session%2012) |            Web scraping (1)             | Aug 31 , 2022 |
 | [Session 13](https://github.com/AhmedUZaki/INSTANT-AI/tree/main/Track%201_%20Python%20for%20Data%20science/Session%2013) |              Revision (2)               | Sep 3 , 2022  |
 | [Session 14](https://github.com/AhmedUZaki/INSTANT-AI/tree/main/Track%201_%20Python%20for%20Data%20science/Session%2014) |            Web scraping (2)             | Sep 4 , 2022  |
-| [Session 14](https://github.com/AhmedUZaki/INSTANT-AI/tree/main/Track%201_%20Python%20for%20Data%20science/Session%2015) |       Revision (3) \| Project (2)       | Sep 7 , 2022  |
+| [Session 15](https://github.com/AhmedUZaki/INSTANT-AI/tree/main/Track%201_%20Python%20for%20Data%20science/Session%2015) |       Revision (3) \| Project (2)       | Sep 7 , 2022  |
 
 </div>
 
@@ -47,10 +47,9 @@ This repository is intended to provide my **Artificial intelligence** journey wi
 
 <div align="center">
 
-
 |                           Session                            |    Topic     |     Date     |
 | :----------------------------------------------------------: | :----------: | :----------: |
-| [Session 01](https://github.com/AhmedUZaki/INSTANT-AI/tree/main/Track%201_%20Python%20for%20Data%20science/Session%2001) | Introduction | Jul 24, 2022 |
+| [Session 01](https://github.com/AhmedUZaki/INSTANT-AI/tree/main/Track%201_%20Python%20for%20Data%20science/Session%2001) | Introduction | Sep 11, 2022 |
 | [Session 02](https://github.com/AhmedUZaki/INSTANT-AI/tree/main/Track%201_%20Python%20for%20Data%20science/Session%2002) |              |              |
 | [Session 03](https://github.com/AhmedUZaki/INSTANT-AI/tree/main/Track%201_%20Python%20for%20Data%20science/Session%2003) |              |              |
 | [Session 04](https://github.com/AhmedUZaki/INSTANT-AI/tree/main/Track%201_%20Python%20for%20Data%20science/Session%2004) |              |              |
