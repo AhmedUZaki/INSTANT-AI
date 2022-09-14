@@ -7,6 +7,8 @@
 
 - [How to choose a sample from a population?](#How-to-choose-a-sample-from-a-population)
 
+- [Notebooks](#Notebooks)
+
 
 ### Notes:
 
@@ -32,15 +34,65 @@
 - Step 4: Repeat the experiment and take the average.
 - Step 5: Collect data from your sample.
 
-
-
-
-
-
-### Tasks:
+#### Notebook
 
 - 
 
-### Solution:
+#### Mean/Median/Mode
 
-- [README]()
+- #### Mean
+
+  - This is calculated as the sum of the values in the dataset, divided by the number of observations in the dataset. 
+
+$$
+\bar{x} = \frac{\displaystyle\sum_{i=1}^{n}x_{i}}{n}
+$$
+
+```python
+def mean(x):
+    _sum = 0
+    for i in x:
+        _sum += i
+    print(_sum/len(x))
+```
+
+So, for our graduate salaries; first lets sort the dataset:
+
+| Salary      |
+|-------------|
+| 40,000      |
+| 50,000      |
+| 50,000      |
+| 54,000      |
+| 55,000      |
+| 59,000      |
+| 189,000     |
+
+There's an odd number of observation (7), so the median value is at position (7 + 1) &div; 2; in other words, position 4:
+
+| Salary      |
+|-------------|
+| 40,000      |
+| 50,000      |
+| 50,000      |
+|***>54,000*** |
+| 55,000      |
+| 59,000      |
+| 189,000     |
+
+- #### Median
+
+  - To calculate the median, we need to sort the values into ascending order and then find the middle-most value. 
+
+```python
+def median(x):
+    if (len(x) % 2 == 1):
+        x = sorted(x)
+        return x[(len(x)// 2)]
+    else:
+        return ( x[len(x) // 2] + x[(len(x) // 2)+ 1] ) 
+```
+
+- #### Mode
+
+  - Mode is the most frequently occurring value
