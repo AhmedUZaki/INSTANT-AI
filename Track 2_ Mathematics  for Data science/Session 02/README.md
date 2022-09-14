@@ -7,9 +7,10 @@
 
 - [How to choose a sample from a population?](#How-to-choose-a-sample-from-a-population)
 
+- [Measures of Central Tendency](#Measures-of-Central-Tendency)
+
 - [Notebooks](#Notebooks)
 
-- [Measures of Central Tendency](#Measures-of-Central-Tendency)
 
 
 ### Notes:
@@ -35,10 +36,6 @@
   - Branch off the entire population into multiple **non-overlapping**, **homogeneous** groups and randomly choose final members from the various strata for research.
 - Step 4: Repeat the experiment and take the average.
 - Step 5: Collect data from your sample.
-
-#### Notebook
-
-- 
 
 #### Measures of Central Tendency
 
@@ -91,5 +88,7 @@ def mode(lst):
     return highestFreqLst
 ```
 
+#### Notebooks
 
-
+- [04-01-Data and Visualization.ipynb](https://github.com/AhmedUZaki/Basic-Mathematics-for-Machine-Learning/blob/master/Statistics and Probability by Hiren/04-01-Data and Visualization.ipynb)
+- [04-02-Statistics Fundamentals.ipynb](https://github.com/AhmedUZaki/Basic-Mathematics-for-Machine-Learning/blob/master/Statistics and Probability by Hiren/04-02-Statistics Fundamentals.ipynb)
