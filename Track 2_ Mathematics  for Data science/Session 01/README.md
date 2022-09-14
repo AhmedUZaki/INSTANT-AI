@@ -1,16 +1,23 @@
-`Subject:` Introduction to course
- `Date:` 24 Jul 22 `Session No.` 01
+`Subject:` Introduction | Linear Algebra
+ `Date:` 11 Sep 22 `Session No.` 01
+
+### Session content:
+
+- 
+
+- 
+
+### Notes:
+
+- 
+
 
 ### Tasks:
-1. Report about new programming language
+1. How do you convert nonlinear to linear equations?
+2. What is PCA and how it works?
+3. What are C++ Libraries / Frameworks for AI?
 
-   [Cython: C-Extensions for Python](https://cython.org/)
+### Solution:
 
-   * Fast as fast as C/C++ , Syntax as Python
-
-2. Needed softwire:
-   1. [Anaconda (Jupyter notebook)](https://www.anaconda.com/)
-   2. [Git bash](https://gitforwindows.org/)
-
-3. [AI companies, and startup in Egypt](https://github.com/engzakii/AI-ML-Driven-Companies-In-Egypt/blob/master/README.md)
+- [Notebook]()
 
