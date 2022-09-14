@@ -9,6 +9,8 @@
 
 - [Notebooks](#Notebooks)
 
+- [Measures of Central Tendency](#Measures-of-Central-Tendency)
+
 
 ### Notes:
 
@@ -38,7 +40,7 @@
 
 - 
 
-#### Mean/Median/Mode
+#### Measures of Central Tendency
 
 - #### Mean
 
@@ -56,30 +58,6 @@ def mean(x):
     print(_sum/len(x))
 ```
 
-So, for our graduate salaries; first lets sort the dataset:
-
-| Salary      |
-|-------------|
-| 40,000      |
-| 50,000      |
-| 50,000      |
-| 54,000      |
-| 55,000      |
-| 59,000      |
-| 189,000     |
-
-There's an odd number of observation (7), so the median value is at position (7 + 1) &div; 2; in other words, position 4:
-
-| Salary      |
-|-------------|
-| 40,000      |
-| 50,000      |
-| 50,000      |
-|***>54,000*** |
-| 55,000      |
-| 59,000      |
-| 189,000     |
-
 - #### Median
 
   - To calculate the median, we need to sort the values into ascending order and then find the middle-most value. 
@@ -93,6 +71,25 @@ def median(x):
         return ( x[len(x) // 2] + x[(len(x) // 2)+ 1] ) 
 ```
 
-- #### Mode
+- #### [Mode](https://medium.com/analytics-vidhya/python-mean-median-mode-functions-without-importing-anything-b2be91870280)
 
   - Mode is the most frequently occurring value
+
+```python
+def mode(lst):
+    frequency = {}
+    for number in lst:
+        frequency.setdefault(number, 0)
+        frequency[number] += 1
+        
+    highestFrequency = max(frequency.values())
+    highestFreqLst = []
+    
+    for number, freq in frequency.items():
+        if freq == highestFrequency:
+            highestFreqLst.append(number)
+    return highestFreqLst
+```
+
+
+
