@@ -3,7 +3,7 @@
 
 ### Session content:
 
-- [What is statistic?](#What-is-statistic-?)
+- [What is statistic?](#What-is-statistic)
 
 - 
 
@@ -11,7 +11,7 @@
 
 ### Notes:
 
-#### What is statistic ?
+#### What is statistic
 
 - **Statistics** is the study and manipulation of data, including ways to gather, review, analyze, and draw conclusions from data. 
 - From Statistics we can get:
