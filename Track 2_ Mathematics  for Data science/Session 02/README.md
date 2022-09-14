@@ -90,5 +90,5 @@ def mode(lst):
 
 #### Notebooks
 
-- [04-01-Data and Visualization.ipynb](https://github.com/AhmedUZaki/Basic-Mathematics-for-Machine-Learning/blob/master/Statistics and Probability by Hiren/04-01-Data and Visualization.ipynb)
-- [04-02-Statistics Fundamentals.ipynb](https://github.com/AhmedUZaki/Basic-Mathematics-for-Machine-Learning/blob/master/Statistics and Probability by Hiren/04-02-Statistics Fundamentals.ipynb)
+- [04-01-Data and Visualization.ipynb](https://github.com/AhmedUZaki/Basic-Mathematics-for-Machine-Learning/blob/master/Statistics%20and%20Probability%20by%20Hiren/04-01-Data%20and%20Visualization.ipynb)
+- [04-02-Statistics Fundamentals.ipynb](https://github.com/AhmedUZaki/Basic-Mathematics-for-Machine-Learning/blob/master/Statistics%20and%20Probability%20by%20Hiren/04-02-Statistics%20Fundamentals.ipynb)
