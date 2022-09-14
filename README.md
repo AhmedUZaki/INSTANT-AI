@@ -36,7 +36,7 @@ This repository is intended to provide my **Artificial intelligence** journey wi
 | [Session 06](https://github.com/AhmedUZaki/INSTANT-AI/tree/main/Track%201_%20Python%20for%20Data%20science/Session%2006) |           Data structures (2)           | Aug 10 , 2022 |
 | [Session 07](https://github.com/AhmedUZaki/INSTANT-AI/tree/main/Track%201_%20Python%20for%20Data%20science/Session%2007) |     Object-oriented programming (1)     | Aug 14 , 2022 |
 | [Session 08](https://github.com/AhmedUZaki/INSTANT-AI/tree/main/Track%201_%20Python%20for%20Data%20science/Session%2008) |     Object-oriented programming (2)     | Aug 17 , 2022 |
-| [Session 09](https://github.com/AhmedUZaki/INSTANT-AI/tree/main/Track%201_%20Python%20for%20Data%20science/Session%2009) |              Revision (1)               | Aug 21 , 2022 |
+| [Session 09](https://github.com/AhmedUZaki/INSTANT-AI/tree/main/Track%201_%20Python%20for%20Data%20science/Session%2009) |       Revision (1) \|Project (1)        | Aug 21 , 2022 |
 | [Session 10](https://github.com/AhmedUZaki/INSTANT-AI/tree/main/Track%201_%20Python%20for%20Data%20science/Session%2010) |          Software Engineering           | Aug 24 , 2022 |
 | [Session 11](https://github.com/AhmedUZaki/INSTANT-AI/tree/main/Track%201_%20Python%20for%20Data%20science/Session%2011) |    AI Pipeline \| Regular expression    | Aug 28 , 2022 |
 | [Session 12](https://github.com/AhmedUZaki/INSTANT-AI/tree/main/Track%201_%20Python%20for%20Data%20science/Session%2012) |            Web scraping (1)             | Aug 31 , 2022 |
