@@ -3,14 +3,19 @@ This repository is intended to provide my **Artificial intelligence** journey wi
 
 <p align="center">
 <img src="https://i.ibb.co/5YLhYZL/1.png" alt="" style="width:350px;"/>
+- 
+  Contact info
 
-​    Contact info
+
+  - [Official Website](https://www.instant-ss.com/)
+    
 
 
-- [Official Website](https://www.instant-ss.com/)
-  
-- [LinkedIn](https://www.linkedin.com/company/instantsoftwaresolution/)
-  
+  - [LinkedIn](https://www.linkedin.com/company/instantsoftwaresolution/)
+    
+
+
+
 - #### Syllabus
 
   [Artificial Intelligence Diploma (5 Months)](https://drive.google.com/file/d/1wTd9mdGzxWzFVL13FYEI51YvWg9Bv1v5/view)
@@ -50,7 +55,7 @@ This repository is intended to provide my **Artificial intelligence** journey wi
 |                           Session                            |             Topic              |     Date     |
 | :----------------------------------------------------------: | :----------------------------: | :----------: |
 | [Session 01](https://github.com/AhmedUZaki/INSTANT-AI/tree/main/Track%202_%20Mathematics%20%20for%20Data%20science/Session%2001) | Introduction \| Linear Algebra | Sep 11, 2022 |
-| [Session 02](https://github.com/AhmedUZaki/INSTANT-AI/tree/main/Track%202_%20Mathematics%20%20for%20Data%20science/Session%2002) |                                |              |
+| [Session 02](https://github.com/AhmedUZaki/INSTANT-AI/tree/main/Track%202_%20Mathematics%20%20for%20Data%20science/Session%2002) |           Statistics           | Sep 14, 2022 |
 | [Session 03](https://github.com/AhmedUZaki/INSTANT-AI/tree/main/Track%202_%20Mathematics%20%20for%20Data%20science/Session%2003) |                                |              |
 | [Session 04](https://github.com/AhmedUZaki/INSTANT-AI/tree/main/Track%202_%20Mathematics%20%20for%20Data%20science/Session%2004) |                                |              |
 | [Session 05](https://github.com/AhmedUZaki/INSTANT-AI/tree/main/Track%202_%20Mathematics%20%20for%20Data%20science/Session%2005) |                                |              |
