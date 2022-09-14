@@ -3,17 +3,16 @@ This repository is intended to provide my **Artificial intelligence** journey wi
 
 <p align="center">
 <img src="https://i.ibb.co/5YLhYZL/1.png" alt="" style="width:350px;"/>
-- 
-  Contact info
+    </p> 
 
 
-  - [Official Website](https://www.instant-ss.com/)
-    
+- #### Contact info
 
 
-  - [LinkedIn](https://www.linkedin.com/company/instantsoftwaresolution/)
-    
+    - [Official Website](https://www.instant-ss.com/)
 
+
+    - [LinkedIn](https://www.linkedin.com/company/instantsoftwaresolution/)
 
 
 - #### Syllabus
