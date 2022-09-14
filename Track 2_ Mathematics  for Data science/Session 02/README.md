@@ -24,13 +24,13 @@
 
 #### How to choose a sample from a population?
 
-- Step 1: Define the population (Domain knowledge)
-- Step 2: Decide on the sample size 
+- Step 1: Define the population (Domain knowledge).
+- Step 2: Decide on the sample size.
   - In the worst circumstances, 30-40% max.
-- Step 3: Randomly select your sample
+- Step 3: Randomly select your sample.
   - Branch off the entire population into multiple **non-overlapping**, **homogeneous** groups and randomly choose final members from the various strata for research.
-- Step 4: Repeat the experiment and take the average
-- Step 5: Collect data from your sample
+- Step 4: Repeat the experiment and take the average.
+- Step 5: Collect data from your sample.
 
 
 
