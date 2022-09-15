@@ -4,14 +4,10 @@
 ### Session content:
 
 - [What is statistic?](#What-is-statistic)
-
 - [How to choose a sample from a population?](#How-to-choose-a-sample-from-a-population)
-
 - [Measures of Central Tendency](#Measures-of-Central-Tendency)
-
+- [Types of Data](#Types-of-Data)
 - [Notebooks](#Notebooks)
-
-
 
 ### Notes:
 
@@ -58,6 +54,7 @@ def mean(x):
 - #### Median
 
   - To calculate the median, we need to sort the values into ascending order and then find the middle-most value. 
+  - The closer the mean and median are to each other in value, this will be the best case.
 
 ```python
 def median(x):
@@ -87,6 +84,10 @@ def mode(lst):
             highestFreqLst.append(number)
     return highestFreqLst
 ```
+
+### Types of Data
+
+<p align="center"><img src='https://lh3.googleusercontent.com/ouaZ3rY3a2NL356W3kDyYr5HTBFFMzSVK2QSQmptX4oMWmH5rmiBix3RIu-aZ9ptEZZUcKkDhN2A7BmPKgs_bCN6raFf5Car4CxHKsPqu_rmB5f-engm9BsHnTyR2rgLmxCSgq9s' width="400"/>
 
 #### Notebooks
 
