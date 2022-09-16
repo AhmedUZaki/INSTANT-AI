@@ -32,5 +32,5 @@
 
 ### Solution:
 
-- [Task Solution](https://github.com/AhmedUZaki/INSTANT-AI/blob/main/Track 2_ Mathematics  for Data science/Session 01/Task Solution.md)
+- [Task Solution](https://github.com/AhmedUZaki/INSTANT-AI/blob/main/Track%202_%20Mathematics%20%20for%20Data%20science/Session%2001/Task%20Solution.md)
 
