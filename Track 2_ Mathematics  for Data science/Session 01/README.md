@@ -37,7 +37,7 @@
 1. [01-01-Introduction to Equations.ipynb](https://github.com/AhmedUZaki/Basic-Mathematics-for-Machine-Learning/blob/master/Basics%20Of%20Algebra%20by%20Hiren/01-01-Introduction%20to%20Equations.ipynb)
 2. [01-02-Linear Equations.ipynb](https://github.com/AhmedUZaki/Basic-Mathematics-for-Machine-Learning/blob/master/Basics%20Of%20Algebra%20by%20Hiren/01-02-Linear%20Equations.ipynb)
 3. [01-03-Systems of Equations.ipynb](https://github.com/AhmedUZaki/Basic-Mathematics-for-Machine-Learning/blob/master/Basics%20Of%20Algebra%20by%20Hiren/01-03-Systems%20of%20Equations.ipynb)
-4. 
+4. [01-05-Polynomials.ipynb](https://github.com/AhmedUZaki/Basic-Mathematics-for-Machine-Learning/blob/master/Basics%20Of%20Algebra%20by%20Hiren/01-05-Polynomials.ipynb)
 
 
 ### Tasks:
