@@ -16,6 +16,7 @@
   - No Solution.
   - Exactly one solution.
   - More than one solution.
+  
 - **linear equation:**
 
   - ```python
@@ -30,7 +31,14 @@
     price = m1 * area + m2 * numberofrooms + m3 * safety + m4 * location + c 
     ```
 
-- PCA --> *dimensionality reduction*
+- PCA ---> *dimensionality reduction*
+
+- **Linear Algebra** used in:
+
+  - Data Collection
+  - Data preprocessing
+  - Feature Engineering
+
 
 ### Notebooks:
 
@@ -38,6 +46,7 @@
 2. [01-02-Linear Equations.ipynb](https://github.com/AhmedUZaki/Basic-Mathematics-for-Machine-Learning/blob/master/Basics%20Of%20Algebra%20by%20Hiren/01-02-Linear%20Equations.ipynb)
 3. [01-03-Systems of Equations.ipynb](https://github.com/AhmedUZaki/Basic-Mathematics-for-Machine-Learning/blob/master/Basics%20Of%20Algebra%20by%20Hiren/01-03-Systems%20of%20Equations.ipynb)
 4. [01-05-Polynomials.ipynb](https://github.com/AhmedUZaki/Basic-Mathematics-for-Machine-Learning/blob/master/Basics%20Of%20Algebra%20by%20Hiren/01-05-Polynomials.ipynb)
+5. [01-08-Functions.ipynb](https://github.com/AhmedUZaki/Basic-Mathematics-for-Machine-Learning/blob/master/Basics%20Of%20Algebra%20by%20Hiren/01-08-Functions.ipynb)
 
 
 ### Tasks:
