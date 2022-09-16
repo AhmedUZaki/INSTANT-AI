@@ -3,9 +3,7 @@
 
 ### Session content:
 
-- Linear Algebra 
-
-- 
+- Algebra / Linear Algebra 
 
 ### Notes:
 
