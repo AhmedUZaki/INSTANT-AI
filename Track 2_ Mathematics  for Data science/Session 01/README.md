@@ -8,12 +8,24 @@
 ### Notes:
 
 - Algebra --> Turn any Problem to Mathematics equations.
+
 - To figure Date have more than 3D we can use **string theory**.
+
 - Number of solution to any equation:
+
   - No Solution.
   - Exactly one solution.
   - More than one solution.
 
+- ```markdown
+  **linear equation**:
+  y = mx + c  (x : value of x axis, m = factor , c constant value) 
+  
+  Ex 1: y = 3x - 4
+  EX 2: y = -x + 5
+  ```
+
+- 
 
 ### Notebooks:
 
