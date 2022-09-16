@@ -9,7 +9,7 @@
 
 ### Notes:
 
-- Linear Algebra --> Turn any Problem to Mathematics equations.
+- Algebra --> Turn any Problem to Mathematics equations.
 - To figure Date have more than 3D we can use **string theory**.
 - Number of solution to any equation:
   - No Solution.
@@ -32,5 +32,5 @@
 
 ### Solution:
 
-- [README]()
+- [Task Solution](https://github.com/AhmedUZaki/INSTANT-AI/blob/main/Track 2_ Mathematics  for Data science/Session 01/Task Solution.md)
 
