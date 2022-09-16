@@ -31,14 +31,13 @@
     price = m1 * area + m2 * numberofrooms + m3 * safety + m4 * location + c 
     ```
 
-- PCA ---> *dimensionality reduction*
-
 - **Linear Algebra** used in:
 
   - Data Collection
   - Data preprocessing
   - Feature Engineering
 
+- PCA ---> *dimensionality reduction*
 
 ### Notebooks:
 
