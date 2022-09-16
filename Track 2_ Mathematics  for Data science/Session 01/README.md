@@ -7,7 +7,7 @@
 
 ### Notes:
 
-- Algebra --> Turn any Problem to Mathematics equations.
+- Algebra ---> Turn any Problem to Mathematics equations.
 
 - To figure Date have more than 3D we can use **string theory**.
 
@@ -18,19 +18,19 @@
   - More than one solution.
 - **linear equation:**
 
-- ```markdown
-  y = mx + c  (x : value of x axis, m = factor , c constant value) 
-  
-  Ex 1: y = 3x - 4
-  EX 2: y = -x + 5
-  ```
-  
-- ```markdown
-  price = m * area + c 
-  price = m1 * area + m2 * numberofrooms + m3 * safety + m4 * location + c 
-  ```
-  
-- 
+  - ```markdown
+    y = mx + c  (x : value of x axis, m = factor, c constant value) 
+    
+    Ex 1: y = 3x - 4
+    EX 2: y = -x + 5
+    ```
+
+  - ```markdown
+    price = m * area + c 
+    price = m1 * area + m2 * numberofrooms + m3 * safety + m4 * location + c 
+    ```
+
+- PCA --> *dimensionality reduction*
 
 ### Notebooks:
 
