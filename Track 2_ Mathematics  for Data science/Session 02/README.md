@@ -1,4 +1,4 @@
-`Subject:` Statistics 
+`Subject:` Statistics and Probability (1)
  `Date:` 14 Sep 22 `Session No.` 02
 
 ### Session content:
