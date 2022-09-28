@@ -3,33 +3,19 @@
 
 ### Session content:
 
-- 
-
-### Notes:
-
-#### What is statistic?
-
-- **Statistics** is the study and manipulation of data, including ways to gather, review, analyze, and draw conclusions from data. 
-- From Data we can get:
-  - **Information** ---> Conclusion.
-  - **Insights** ---> Read between the lines.
-  - We cannot be certain that the information/Insights that we get from information are always correct, So there is a new field called **Decision Sciences**.
-  
-- Don't trust any statistics you didn't fake yourself.
-
-- Statistics is the science of changing your mind under **uncertainty**.
-
-
+- Recap Statistics 
+- Probability
 
 
 #### Notebooks
 
-- [04-01-Data and Visualization.ipynb](https://github.com/AhmedUZaki/Basic-Mathematics-for-Machine-Learning/blob/master/Statistics%20and%20Probability%20by%20Hiren/04-01-Data%20and%20Visualization.ipynb)
 - [04-02-Statistics Fundamentals.ipynb](https://github.com/AhmedUZaki/Basic-Mathematics-for-Machine-Learning/blob/master/Statistics%20and%20Probability%20by%20Hiren/04-02-Statistics%20Fundamentals.ipynb)
+- [04-04-Probability.ipynb](https://github.com/AhmedUZaki/Basic-Mathematics-for-Machine-Learning/blob/master/Statistics%20and%20Probability%20by%20Hiren/04-04-Probability.ipynb)
 
 ### Tasks:
 
-1. 
+1. What is statistical tests, and its types?
+2. How can hypothesis testing be used in business?
 
 ### Solution:
 
