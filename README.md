@@ -56,9 +56,9 @@ This repository is intended to provide my **Artificial intelligence** journey wi
 | [Session 01](https://github.com/AhmedUZaki/INSTANT-AI/tree/main/Track%202_%20Mathematics%20%20for%20Data%20science/Session%2001) | Introduction \| Linear Algebra | Sep 11, 2022  |
 | [Session 02](https://github.com/AhmedUZaki/INSTANT-AI/tree/main/Track%202_%20Mathematics%20%20for%20Data%20science/Session%2002) | Statistics and Probability (1) | Sep 14, 2022  |
 | [Session 03](https://github.com/AhmedUZaki/INSTANT-AI/tree/main/Track%202_%20Mathematics%20%20for%20Data%20science/Session%2003) | Statistics and Probability (2) | Sep 18 , 2022 |
-| [Session 04](https://github.com/AhmedUZaki/INSTANT-AI/tree/main/Track%202_%20Mathematics%20%20for%20Data%20science/Session%2004) |                                |               |
-| [Session 05](https://github.com/AhmedUZaki/INSTANT-AI/tree/main/Track%202_%20Mathematics%20%20for%20Data%20science/Session%2005) |                                |               |
-| [Session 06](https://github.com/AhmedUZaki/INSTANT-AI/tree/main/Track%202_%20Mathematics%20%20for%20Data%20science/Session%2006) |                                |               |
+| [Session 04](https://github.com/AhmedUZaki/INSTANT-AI/tree/main/Track%202_%20Mathematics%20%20for%20Data%20science/Session%2004) |            Calculus            | Sep 28 , 2022 |
+| [Session 05](https://github.com/AhmedUZaki/INSTANT-AI/tree/main/Track%202_%20Mathematics%20%20for%20Data%20science/Session%2005) |           NumPy (1)            | Oct 2 , 2022  |
+| [Session 06](https://github.com/AhmedUZaki/INSTANT-AI/tree/main/Track%202_%20Mathematics%20%20for%20Data%20science/Session%2006) |           NumPy (2)            | Oct 5 , 2022  |
 | [Session 07](https://github.com/AhmedUZaki/INSTANT-AI/tree/main/Track%202_%20Mathematics%20%20for%20Data%20science/Session%2007) |                                |               |
 | [Session 08](https://github.com/AhmedUZaki/INSTANT-AI/tree/main/Track%202_%20Mathematics%20%20for%20Data%20science/Session%2008) |                                |               |
 | [Session 09](https://github.com/AhmedUZaki/INSTANT-AI/tree/main/Track%202_%20Mathematics%20%20for%20Data%20science/Session%2009) |                                |               |
