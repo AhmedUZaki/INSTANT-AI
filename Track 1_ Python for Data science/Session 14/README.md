@@ -8,14 +8,16 @@
 
 ### Notes:
 
-- 
+- Scraping URL - [link](https://coreyms.com/)
 
-  
 
 
 ### Tasks:
 
-1. 
+1. Code which download YouTube video using python
+2. Scrape images from website
+3. Scrape 5 articles - [link](https://coreyms.com/)
+4. Scrape name, and link of each channel from your subscriptions - [link](https://www.youtube.com/feed/channels)
 
 ### Solution:
 

@@ -1,5 +1,5 @@
 `Subject:` Statistics and Probability (1)
- `Date:` 14 Sep 22 `Session No.` 02
+ `Date:` 14 Sep 22 `Session No.` 03
 
 ### Session content:
 

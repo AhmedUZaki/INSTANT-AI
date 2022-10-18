@@ -59,8 +59,8 @@ This repository is intended to provide my **Artificial intelligence** journey wi
 | [Session 04](https://github.com/AhmedUZaki/INSTANT-AI/tree/main/Track%202_%20Mathematics%20%20for%20Data%20science/Session%2004) |            Calculus            | Sep 28 , 2022 |
 | [Session 05](https://github.com/AhmedUZaki/INSTANT-AI/tree/main/Track%202_%20Mathematics%20%20for%20Data%20science/Session%2005) |           NumPy (1)            | Oct 2 , 2022  |
 | [Session 06](https://github.com/AhmedUZaki/INSTANT-AI/tree/main/Track%202_%20Mathematics%20%20for%20Data%20science/Session%2006) |           NumPy (2)            | Oct 5 , 2022  |
-| [Session 07](https://github.com/AhmedUZaki/INSTANT-AI/tree/main/Track%202_%20Mathematics%20%20for%20Data%20science/Session%2007) |                                |               |
-| [Session 08](https://github.com/AhmedUZaki/INSTANT-AI/tree/main/Track%202_%20Mathematics%20%20for%20Data%20science/Session%2008) |                                |               |
+| [Session 07](https://github.com/AhmedUZaki/INSTANT-AI/tree/main/Track%202_%20Mathematics%20%20for%20Data%20science/Session%2007) |           Pandas (1)           | Oct 9 , 2022  |
+| [Session 08](https://github.com/AhmedUZaki/INSTANT-AI/tree/main/Track%202_%20Mathematics%20%20for%20Data%20science/Session%2008) |     Revision (1) \| Pandas     | Oct 12 , 2022 |
 | [Session 09](https://github.com/AhmedUZaki/INSTANT-AI/tree/main/Track%202_%20Mathematics%20%20for%20Data%20science/Session%2009) |                                |               |
 | [Session 10](https://github.com/AhmedUZaki/INSTANT-AI/tree/main/Track%202_%20Mathematics%20%20for%20Data%20science/Session%2010) |                                |               |
 | [Session 11](https://github.com/AhmedUZaki/INSTANT-AI/tree/main/Track%202_%20Mathematics%20%20for%20Data%20science/Session%2011) |                                |               |
