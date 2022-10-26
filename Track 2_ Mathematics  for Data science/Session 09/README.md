@@ -1,5 +1,5 @@
 `Subject:` Pandas(2)
- `Date:` 16 Oct 22 `Session No.` 21
+ `Date:` 16 Oct 22 `Session No.` 09
 
 ### Session content:
 
