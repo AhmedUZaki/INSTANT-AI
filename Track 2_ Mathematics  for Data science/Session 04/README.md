@@ -3,12 +3,13 @@
 
 ### Session content:
 
-- 
+- Differential equations.
+- Rate of change.
 
 
-#### Notebooks
+#### Notes:
 
-- 
+- Rate of change (ROC) refers to **how quickly something changes over time**. It is thus the acceleration or deceleration of changes
 
 ### Tasks:
 
