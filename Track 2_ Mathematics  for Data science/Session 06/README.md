@@ -3,12 +3,7 @@
 
 ### Session content:
 
-- 
-
-
-#### Notebooks
-
-- 
+- NumPy 
 
 ### Tasks:
 
