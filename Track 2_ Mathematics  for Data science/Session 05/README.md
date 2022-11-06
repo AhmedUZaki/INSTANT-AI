@@ -3,7 +3,7 @@
 
 ### Session content:
 
-- 
+- NumPy 
 
 ### Notes:
 
@@ -25,11 +25,6 @@
 - Float overflow in python occurs after **15 number after decimal point**
 - Axis = 1 (Column), 0 (Row)
 - [Numpy documentation](https://numpy.org/doc/)
-
-
-#### Notebooks
-
-- 
 
 ### Tasks:
 
