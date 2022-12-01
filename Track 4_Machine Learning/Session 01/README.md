@@ -17,8 +17,9 @@
 
 - **Types of learning**
 
-  - Supervised learning (defined by its use of labeled dataset
-    1- `Classification` :to train the model to choose correct answer between specific answers
+  - Supervised learning (defined by its use of labeled dataset)
+
+  - 1- `Classification` :to train the model to choose correct answer between specific answers
 
     - Binary classification :to categorize new observations into one of two classes.
     - Categorical classification :to categorize new observations for more than two classes
@@ -33,8 +34,8 @@
 
 - **Types of models:**
 
-  - Statistical Model
-  - Non Statistical Model
+  - Statistical Model.
+  - Non Statistical Model.
 
 
 ### Tasks:
