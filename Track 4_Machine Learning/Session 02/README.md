@@ -31,7 +31,7 @@
 
 ​                                                                           **B** is Better than A
 
-
+<p align="center"><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Roc_curve.svg/220px-Roc_curve.svg.png' width="300"/>
 
 
 
