@@ -1,5 +1,5 @@
 `Subject:` Pandas(3)
- `Date:` 23 Oct 22 `Session No.`10
+ `Date:` 23 Oct 22 `Session No.` 06
 
 ### Session content:
 
@@ -12,9 +12,9 @@
 
 ### Tasks:
 
-1. Append data to exist csv / excel file
+- Pandas Exercise 
 
 ### Solution:
 
-- [Task Solution](https://github.com/AhmedUZaki/INSTANT-AI/blob/main/Track%202_%20Mathematics%20%20for%20Data%20science/Session%2003/Task%20Solution.md)
+- 
 

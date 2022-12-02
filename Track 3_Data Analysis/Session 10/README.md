@@ -1,5 +1,5 @@
-`Subject:` Pandas(2)
- `Date:` 16 Oct 22 `Session No.` 05
+`Subject:` Q/A
+ `Date:` 9 Nov 22 `Session No.` 10
 
 ### Session content:
 
@@ -12,7 +12,10 @@
 
 ### Tasks:
 
-1. Append data to exist csv / excel file
+1. Excel for Data Science.
+1. SQL Crash Course
+1. Power BI
+1. Example [Pandas == Dask]
 
 ### Solution:
 

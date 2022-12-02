@@ -1,5 +1,5 @@
 `Subject:` NumPy (1)
- `Date:` 2 Oct 22 `Session No.` 05
+ `Date:` 2 Oct 22 `Session No.` 01
 
 ### Session content:
 

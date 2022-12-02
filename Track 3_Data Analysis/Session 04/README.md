@@ -1,5 +1,5 @@
 `Subject:` Revision (1) | Pandas
- `Date:` 12 Oct 22 `Session No.` 08
+ `Date:` 12 Oct 22 `Session No.` 04
 
 ### Session content:
 
