@@ -17,7 +17,7 @@
 - #### Examples for Non Statistical Models.
 
   - Non-statistical, meaning it does not take a sample and use algorithms in order to validate a hypothesis. Instead, it takes input from a large volume of data and outputs the results from the data alone. This means that all the available data is taken into account.
-  - [“Non-statistical” statistics tools](https://statmodeling.stat.columbia.edu/2013/06/30/18729/)
+  - [“Non-statistical” statistics tools](https://statmodeling.stat.columbia.edu/2013/06/30/18729/).
 
 - #### Solve an example (with one variable) for Linear regression.
 
