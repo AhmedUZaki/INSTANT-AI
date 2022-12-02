@@ -21,9 +21,9 @@
 
 - #### Solve an example (with one variable) for Linear regression.
 
-  - [Notebook 01](https://github.com/AhmedUZaki/INSTANT-AI/blob/main/Track 4_Machine Learning/Session 03/Notebooks/02 Tasks/01 8- Regression_task1/2- test.ipynb)
+  - [Notebook 01](https://github.com/AhmedUZaki/INSTANT-AI/blob/main/Track%204_Machine%20Learning/Session%2003/Notebooks/02%20Tasks/01%208-%20Regression_task1/2-%20test.ipynb)
 
 - #### Solve an example (with multiple variables) for Linear regression.
 
-  - [Notebook 02](https://github.com/AhmedUZaki/INSTANT-AI/blob/main/Track 4_Machine Learning/Session 03/Notebooks/02 Tasks/02 task/Linear_Regression_ripynb.ipynb)
+  - [Notebook 02](https://github.com/AhmedUZaki/INSTANT-AI/blob/main/Track%204_Machine%20Learning/Session%2003/Notebooks/02%20Tasks/02%20task/Linear_Regression_ripynb.ipynb)
 
