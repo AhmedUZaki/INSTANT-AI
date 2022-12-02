@@ -15,6 +15,8 @@
     - Example: Face recognition
   - AI : General Solution for General Problems ( AGI )
 
+- Machine learning --> Data Moudling
+
 - **Types of learning**
 
   - Supervised learning (defined by its use of labeled dataset)
