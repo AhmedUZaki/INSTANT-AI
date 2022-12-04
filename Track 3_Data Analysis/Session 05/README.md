@@ -1,9 +1,11 @@
 `Subject:` Pandas(2)
  `Date:` 16 Oct 22 `Session No.` 05
 
-### Session content:
+#### Notes:
 
-- 
+- Nan Values
+
+  
 
 
 #### Notebooks
@@ -12,7 +14,7 @@
 
 ### Tasks:
 
-1. Append data to exist csv / excel file
+1. Append data to exist csv / excel file.
 
 ### Solution:
 
