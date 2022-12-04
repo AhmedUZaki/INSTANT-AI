@@ -5,11 +5,25 @@
 
 - **Nan Values**
 
-  <p align="center"><img src='https://i.imgur.com/ZWLqbZe.jpeg' width="600"/>
+  - ```python
+    df = pd.read_csv("stock_data.csv", na_values=["n.a.", "not available"]) 
+    ```
+  
+  - ```python
+    df = pd.read_csv("stock_data.csv",  na_values={
+            'eps': ['not available'],
+            'revenue': [-1],
+            'people': ['not available','n.a.']     })
+    ```
+    -**Fill Nan Values**
+  - ```python
+    new_df = df.fillna({
+            'temperature': 0,
+            'windspeed': df["windspeed"].mean(),
+            'event': 'No event'
+        })
+    ```
 
-<p align="center"><img src='https://i.imgur.com/CZ8wezX.jpeg' width="500"/>
-
-<p align="center"><img src='https://i.imgur.com/MzqQXLf.jpeg' width="500"/>
 
 - **Use method to determine how to fill NA values**
 
@@ -25,9 +39,8 @@
   - ```python
     #With Limit
     new_df = df.fillna(method="ffill",limit=2)
-    
     ```
-
+  
 - **Interpolate**
 
 
@@ -38,6 +51,34 @@
     ```
 
 
+- **Converters**
+
+  - ```python
+    #Fill NaNs with a Custom Conditions.
+    
+    def convert_people_cell(cell):
+        if cell=="n.a.":
+            return 'data not available'
+        return cell
+    
+    def convert_price_cell(cell):
+        if cell=="n.a.":
+            return 14.8
+        return cell
+    
+    def convert_eps_cell(cell):
+        if cell== "not available":
+            return 18.36
+        return cell
+        
+    df = pd.read_excel("stock_data.xlsx","Sheet1", converters= {
+            'people': convert_people_cell,
+            'price': convert_price_cell,
+             'eps':convert_eps_cell    })
+    ```
+    
+    
+  
 - **Time**
 
   - ```python
