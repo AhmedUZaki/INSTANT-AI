@@ -1,4 +1,4 @@
-`Subject:` Pandas(2)
+`Subject:` Pandas (2)
  `Date:` 16 Oct 22 `Session No.` 05
 
 #### Notes:
@@ -88,12 +88,14 @@
             'price': convert_price_cell,
              'eps':convert_eps_cell    })
     ```
+  
 - **Drop NaNs**
 
   - ```python
     new_df = df.dropna(how='all')
     new_df = df.dropna(thresh=2) 
     ```
+  
 - **Replace**
 
   - ```python
@@ -113,19 +115,25 @@
             -99999: np.nan,
             '0': 'Sunny',    })
     ```
-    
   
+ - **Get Group**
 
 
-#### Notebooks
+      - <p align="center"><img src='https://i.imgur.com/mZN46fX.jpeg' width="300"/>
+
+
+      - <p align="center"><img src='https://i.imgur.com/tTZ6jYY.jpeg' width="300"/>
+
+   - <p align="center"><img src='https://i.imgur.com/FaDCSyb.jpeg' width="500"/>
+
+#### Notebooks:
 
 - [Notebooks](https://github.com/AhmedUZaki/INSTANT-AI/tree/main/Track%203_Data%20Analysis/Session%2005/Notebooks)
 
 ### Tasks:
 
-1. Append data to exist csv / excel file.
+- Append data to exist csv / excel file.
 
 ### Solution:
 
-- [Task Solution](https://github.com/AhmedUZaki/INSTANT-AI/blob/main/Track%202_%20Mathematics%20%20for%20Data%20science/Session%2003/Task%20Solution.md)
-
+- [Task Solution](https://github.com/AhmedUZaki/INSTANT-AI/tree/main/Track%203_Data%20Analysis/Session%2005/Task%20Solution)
