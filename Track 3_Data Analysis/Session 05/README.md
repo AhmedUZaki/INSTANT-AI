@@ -3,6 +3,16 @@
 
 #### Notes:
 
+- **Time**
+
+  - ```python
+    import pandas as pd
+    df = pd.read_csv("weather_data.csv", parse_dates=['day'])
+    df
+    ```
+
+  <p align="center"><img src='https://i.imgur.com/gbLphow.jpeg' width="300"/>
+  
 - **Nan Values**
 
   - ```python
@@ -21,8 +31,7 @@
     new_df = df.fillna({
             'temperature': 0,
             'windspeed': df["windspeed"].mean(),
-            'event': 'No event'
-        })
+            'event': 'No event'     })
     ```
 
 
@@ -42,16 +51,16 @@
     new_df = df.fillna(method="ffill",limit=2)
     ```
   
-- **Interpolate**
+- **Interpolation**
 
 
-  - ```python
-    '''
-    Interpolation is mostly used to impute missing values in the dataframe 
-    or series while preprocessing data.
-    '''
-    new_df = df.interpolate()
-    ```
+    - ```python
+        '''
+        Interpolation is mostly used to impute missing values in the dataframe 
+        or series while preprocessing data.
+        '''
+        new_df = df.interpolate()
+        ```
 
 
 - **Converters**
@@ -79,18 +88,16 @@
             'price': convert_price_cell,
              'eps':convert_eps_cell    })
     ```
+- **Drop NaNs**
+
+  - ```python
+    new_df = df.dropna(how='all')
+    new_df = df.dropna(thresh=2) 
+    ```
     
     
   
-- **Time**
 
-  - ```python
-    import pandas as pd
-    df = pd.read_csv("weather_data.csv", parse_dates=['day'])
-    df
-    ```
-
-  <p align="center"><img src='https://i.imgur.com/gbLphow.jpeg' width="300"/>
 
 #### Notebooks
 
