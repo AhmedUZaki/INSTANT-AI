@@ -94,7 +94,25 @@
     new_df = df.dropna(how='all')
     new_df = df.dropna(thresh=2) 
     ```
+- **Replace**
+
+  - ```python
+    new_df = df.replace(-99999, value=5)
     
+    
+    new_df = df.replace(to_replace=[-99999,-88888, 10, '0'], value=5)
+    
+    
+    new_df = df.replace({
+            'temperature': -99999,
+            'windspeed': -99999,
+            'day': '1/1/2017',
+            'event': '0'    }, np.nan)
+    
+    new_df = df.replace({
+            -99999: np.nan,
+            '0': 'Sunny',    })
+    ```
     
   
 
