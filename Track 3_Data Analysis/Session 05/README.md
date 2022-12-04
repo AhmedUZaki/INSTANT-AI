@@ -15,7 +15,8 @@
             'revenue': [-1],
             'people': ['not available','n.a.']     })
     ```
-    -**Fill Nan Values**
+- **Fill Nan Values**
+  
   - ```python
     new_df = df.fillna({
             'temperature': 0,
@@ -45,8 +46,10 @@
 
 
   - ```python
-    #Interpolation in Python is a technique used to estimate unknown data points between two known data points. Interpolation is mostly used to impute missing values in the dataframe or series while preprocessing data.
-    
+    '''
+    Interpolation is mostly used to impute missing values in the dataframe 
+    or series while preprocessing data.
+    '''
     new_df = df.interpolate()
     ```
 
