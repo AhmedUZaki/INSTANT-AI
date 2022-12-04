@@ -87,7 +87,7 @@
     df
     ```
 
-  <p align="center"><img src='https://i.imgur.com/gbLphow.jpeg' width="400"/>
+  <p align="center"><img src='https://i.imgur.com/gbLphow.jpeg' width="300"/>
 
 #### Notebooks
 
