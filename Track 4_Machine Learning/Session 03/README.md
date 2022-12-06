@@ -1,4 +1,4 @@
-`Subject:` Regression
+`Subject:` Linear Regression
  `Date:` 30 Nov 22 `Session No.` 03
 
 ### Notes:
