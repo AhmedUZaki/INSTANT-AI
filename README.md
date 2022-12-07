@@ -26,8 +26,6 @@ This repository is intended to provide my **Artificial intelligence** journey wi
 
 <HTML><div align="center">
 
-### Track 1: Python for Data science
-
 |     Session     |   Topic   |     Date      |
 | :-------------: | :--------: | :-----------: |
 | (**1**) |Introduction | Jul 24, 2022 |
@@ -52,8 +50,6 @@ This repository is intended to provide my **Artificial intelligence** journey wi
 
 <HTML> <div align="center">
 
-### Track 2: Mathematics for Data Science
-
 |     Session     |   Topic   |     Date      |
 | :-------------: | :--------: | :-----------: |
 | (**1**) | Introduction \| Linear Algebra | Sep 11 , 2022 |
@@ -63,9 +59,9 @@ This repository is intended to provide my **Artificial intelligence** journey wi
 
 </div> </HTML>
 
-<HTML> <div align="center">
-
 ### Track 3: Data Analysis
+
+<HTML> <div align="center">
 
 |     Session     |   Topic   |     Date      |
 | :-------------: | :--------: | :-----------: |
@@ -80,7 +76,11 @@ This repository is intended to provide my **Artificial intelligence** journey wi
 | (**9**) | OpenCV | Nov 6 , 2022 |
 | (**10**) | Q/A | Nov 9 , 2022 |
 
+</div> </HTML>
+
 ### Track 4: Machine Learning
+
+<HTML> <div align="center">
 
 | Session  |              Topic              |     Date      |
 | :------: | :-----------------------------: | :-----------: |
