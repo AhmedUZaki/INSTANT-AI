@@ -26,47 +26,74 @@ This repository is intended to provide my **Artificial intelligence** journey wi
 
 <HTML><div align="center">
 
-|                           Session                            |                  Topic                  |     Date      |
-| :----------------------------------------------------------: | :-------------------------------------: | :-----------: |
-| [Session 01](https://github.com/AhmedUZaki/INSTANT-AI/tree/main/Track%201_%20Python%20for%20Data%20science/Session%2001) |              Introduction               | Jul 24, 2022  |
-| [Session 02](https://github.com/AhmedUZaki/INSTANT-AI/tree/main/Track%201_%20Python%20for%20Data%20science/Session%2002) |               Git/GitHub                | Jul 27, 2022  |
-| [Session 03](https://github.com/AhmedUZaki/INSTANT-AI/tree/main/Track%201_%20Python%20for%20Data%20science/Session%2003) |            Python Basics (1)            | Jul 31, 2022  |
-| [Session 04](https://github.com/AhmedUZaki/INSTANT-AI/tree/main/Track%201_%20Python%20for%20Data%20science/Session%2004) |            Python Basics (2)            | Aug 3 , 2022  |
-| [Session 05](https://github.com/AhmedUZaki/INSTANT-AI/tree/main/Track%201_%20Python%20for%20Data%20science/Session%2005) | Python Basics (3) \| Data structure (1) | Aug 7 , 2022  |
-| [Session 06](https://github.com/AhmedUZaki/INSTANT-AI/tree/main/Track%201_%20Python%20for%20Data%20science/Session%2006) |           Data structures (2)           | Aug 10 , 2022 |
-| [Session 07](https://github.com/AhmedUZaki/INSTANT-AI/tree/main/Track%201_%20Python%20for%20Data%20science/Session%2007) |     Object-oriented programming (1)     | Aug 14 , 2022 |
-| [Session 08](https://github.com/AhmedUZaki/INSTANT-AI/tree/main/Track%201_%20Python%20for%20Data%20science/Session%2008) |     Object-oriented programming (2)     | Aug 17 , 2022 |
-| [Session 09](https://github.com/AhmedUZaki/INSTANT-AI/tree/main/Track%201_%20Python%20for%20Data%20science/Session%2009) |       Revision (1) \|Project (1)        | Aug 21 , 2022 |
-| [Session 10](https://github.com/AhmedUZaki/INSTANT-AI/tree/main/Track%201_%20Python%20for%20Data%20science/Session%2010) |          Software Engineering           | Aug 24 , 2022 |
-| [Session 11](https://github.com/AhmedUZaki/INSTANT-AI/tree/main/Track%201_%20Python%20for%20Data%20science/Session%2011) |    AI Pipeline \| Regular expression    | Aug 28 , 2022 |
-| [Session 12](https://github.com/AhmedUZaki/INSTANT-AI/tree/main/Track%201_%20Python%20for%20Data%20science/Session%2012) |            Web scraping (1)             | Aug 31 , 2022 |
-| [Session 13](https://github.com/AhmedUZaki/INSTANT-AI/tree/main/Track%201_%20Python%20for%20Data%20science/Session%2013) |              Revision (2)               | Sep 3 , 2022  |
-| [Session 14](https://github.com/AhmedUZaki/INSTANT-AI/tree/main/Track%201_%20Python%20for%20Data%20science/Session%2014) |            Web scraping (2)             | Sep 4 , 2022  |
-| [Session 15](https://github.com/AhmedUZaki/INSTANT-AI/tree/main/Track%201_%20Python%20for%20Data%20science/Session%2015) |       Revision (3) \| Project (2)       | Sep 7 , 2022  |
+### Track 1: Python for Data science
+
+|     Session     |   Topic   |     Date      |
+| :-------------: | :--------: | :-----------: |
+| (**1**) |Introduction | Jul 24, 2022 |
+| (**2**) | Git/GitHub | Jul 27, 2022 |
+| (**3**) |      Python Basics (1)      | Jul 31, 2022 |
+| (**4**) |       Python Basics (2)     | Aug 3 , 2022 |
+| (**5**) |      Python Basics (3) \|  Data structure (1)      | Aug 7 , 2022 |
+| (**6**) |     Data structures (2)      | Aug 10 , 2022 |
+| (**7**) | Object-oriented programming (1) | Aug 14 , 2022 |
+| (**8**) | Object-oriented programming (2) | Aug 17 , 2022 |
+| **(9)** | Revision (1) \| Project (1) | Aug 21 , 2022 |
+| **(10)** | Software Engineering | Aug 24 , 2022 |
+| **(11)** | AI Pipeline \| Regular expression | Aug 28 , 2022 |
+| **(12)** | Web scraping (1) | Aug 31 , 2022 |
+| **(13)** | Revision (2) | Sep 3 , 2022 |
+| **(14)** | Web scraping (2) | Sep 4 , 2022 |
+| **(15)** | Revision (3) \| Project (2) | Sep 7 , 2022 |
 
 </div> </HTML>
 
 ### Track 2: Mathematics for Data science
 
+<HTML> <div align="center">
+
+### Track 2: Mathematics for Data Science
+
+|     Session     |   Topic   |     Date      |
+| :-------------: | :--------: | :-----------: |
+| (**1**) | Introduction \| Linear Algebra | Sep 11 , 2022 |
+| (**2**) | Statistics and Probability (1) | Sep 14 , 2022 |
+| (**3**) | Statistics and Probability (2) | Sep 18 , 2022 |
+| (**4**) | Calculus | Sep 28 , 2022 |
+
+</div> </HTML>
 
 <HTML> <div align="center">
 
-|                           Session                            |             Topic              |     Date      |
-| :----------------------------------------------------------: | :----------------------------: | :-----------: |
-| [Session 01](https://github.com/AhmedUZaki/INSTANT-AI/tree/main/Track%202_%20Mathematics%20%20for%20Data%20science/Session%2001) | Introduction \| Linear Algebra | Sep 11, 2022  |
-| [Session 02](https://github.com/AhmedUZaki/INSTANT-AI/tree/main/Track%202_%20Mathematics%20%20for%20Data%20science/Session%2002) | Statistics and Probability (1) | Sep 14, 2022  |
-| [Session 03](https://github.com/AhmedUZaki/INSTANT-AI/tree/main/Track%202_%20Mathematics%20%20for%20Data%20science/Session%2003) | Statistics and Probability (2) | Sep 18 , 2022 |
-| [Session 04](https://github.com/AhmedUZaki/INSTANT-AI/tree/main/Track%202_%20Mathematics%20%20for%20Data%20science/Session%2004) |            Calculus            | Sep 28 , 2022 |
-| [Session 05](https://github.com/AhmedUZaki/INSTANT-AI/tree/main/Track%202_%20Mathematics%20%20for%20Data%20science/Session%2005) |           NumPy (1)            | Oct 2 , 2022  |
-| [Session 06](https://github.com/AhmedUZaki/INSTANT-AI/tree/main/Track%202_%20Mathematics%20%20for%20Data%20science/Session%2006) |           NumPy (2)            | Oct 5 , 2022  |
-| [Session 07](https://github.com/AhmedUZaki/INSTANT-AI/tree/main/Track%202_%20Mathematics%20%20for%20Data%20science/Session%2007) |           Pandas (1)           | Oct 9 , 2022  |
-| [Session 08](https://github.com/AhmedUZaki/INSTANT-AI/tree/main/Track%202_%20Mathematics%20%20for%20Data%20science/Session%2008) |     Revision (1) \| Pandas     | Oct 12 , 2022 |
-| [Session 09](https://github.com/AhmedUZaki/INSTANT-AI/tree/main/Track%202_%20Mathematics%20%20for%20Data%20science/Session%2009) |                                |               |
-| [Session 10](https://github.com/AhmedUZaki/INSTANT-AI/tree/main/Track%202_%20Mathematics%20%20for%20Data%20science/Session%2010) |                                |               |
-| [Session 11](https://github.com/AhmedUZaki/INSTANT-AI/tree/main/Track%202_%20Mathematics%20%20for%20Data%20science/Session%2011) |                                |               |
-| [Session 12](https://github.com/AhmedUZaki/INSTANT-AI/tree/main/Track%202_%20Mathematics%20%20for%20Data%20science/Session%2012) |                                |               |
-| [Session 13](https://github.com/AhmedUZaki/INSTANT-AI/tree/main/Track%202_%20Mathematics%20%20for%20Data%20science/Session%2013) |                                |               |
-| [Session 14](https://github.com/AhmedUZaki/INSTANT-AI/tree/main/Track%202_%20Mathematics%20%20for%20Data%20science/Session%2014) |                                |               |
+### Track 3: Data Analysis
+
+|     Session     |   Topic   |     Date      |
+| :-------------: | :--------: | :-----------: |
+| (**1**) | NumPy (1) | Oct 2 , 2022 |
+| (**2**) | NumPy (2) | Oct 5 , 2022 |
+| (**3**) | Pandas (1) | Oct 9 , 2022 |
+| (**4**) | Revision (1) \| Pandas | Oct 12 , 2022 |
+| (**5**) | Pandas (2) | Oct 16 , 2022 |
+| (**6**) | Pandas (3) \| Matplotlib (1) | Oct 23 , 2022 |
+| (**7**) |   Revision (2) \| Matplotlib (2)   | Oct 30 , 2022 |
+| (**8**) |            Seaborn             | Nov 2 , 2022 |
+| (**9**) | OpenCV | Nov 6 , 2022 |
+| (**10**) | Q/A | Nov 9 , 2022 |
+
+### Track 4: Machine Learning
+
+| Session  |              Topic              |     Date      |
+| :------: | :-----------------------------: | :-----------: |
+| (**1**)  |         ML Introduction         | Nov 20 , 2022 |
+| (**2**)  | Model Evaluation and Validation | Nov 27 , 2022 |
+| (**3**)  |        Linear Regression        | Nov 30 , 2022 |
+| (**4**)  | Decision Tree and Random Forest | Dec 4 , 2022  |
+| (**5**)  |                                 |               |
+| (**6**)  |                                 |               |
+| (**7**)  |                                 |               |
+| (**8**)  |                                 |               |
+| (**9**)  |                                 |               |
+| (**10**) |                                 |               |
 
 </div> </HTML>
 
